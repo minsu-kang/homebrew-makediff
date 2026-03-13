@@ -1,6 +1,6 @@
 cask "makediff" do
-  version "1.5.0"
-  sha256 "8fb21dfbfb5a00d851853c203db8bf13a9ffbc338204e751f3b738bb72a166f4"
+  version "1.5.1"
+  sha256 "9616237c958e78f805b67479dda86c2bceee3664ca351ec0e358c82efcc18e8d"
 
   url "https://github.com/minsu-kang/make-app-diff/releases/download/v#{version}/MakeDiff-#{version}-arm64.dmg"
   name "MakeDiff"
