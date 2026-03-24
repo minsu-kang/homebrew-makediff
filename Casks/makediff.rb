@@ -10,7 +10,6 @@ cask "makediff" do
   depends_on arch: :arm64
 
   app "MakeDiff.app"
-  no_quarantine true
 
   zap trash: [
     "~/Library/Application Support/make-app-diff",
